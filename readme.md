@@ -28,9 +28,20 @@ exercises  inputs  lorem  lorem-copy  modules  outputs  README.md
 
 1. Using the echo command print in console "Hello World". Here is some info about echo command [https://discuss.codecademy.com/t/what-are-practical-uses-of-the-echo-command/394788]
 2. Create a new directory called `new_dir`.
-3. Delete/Remove the directory `new_dir`.
-4. Copy the file `sed.txt` from the `lorem` folder and paste it to the folder `lorem-copy` folder.
-5. Copy the other two files from the `lorem folder` to `lorem-copy` folder in just one line using semicolon `;`.
+
+`mkdir new_dir`
+
+
+4. Delete/Remove the directory `new_dir`.
+
+`rmdir new_dir`
+
+5. Copy the file `sed.txt` from the `lorem` folder and paste it to the folder `lorem-copy` folder.
+
+`cp  /Users/cormacokeeffe/Documents/GitHub/lab-bash/lorem/sed.txt /Users/cormacokeeffe/Documents/GitHub/lab-bash/lorem-copy`
+
+
+6. Copy the other two files from the `lorem folder` to `lorem-copy` folder in just one line using semicolon `;`.
 
 `cp at.txt at.txte lorem.txt /Users/cormacokeeffe/Documents/GitHub/lab-bash/lorem-copy`
 
