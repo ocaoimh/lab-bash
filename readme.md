@@ -31,6 +31,7 @@ exercises  inputs  lorem  lorem-copy  modules  outputs  README.md
 3. Delete/Remove the directory `new_dir`.
 4. Copy the file `sed.txt` from the `lorem` folder and paste it to the folder `lorem-copy` folder.
 5. Copy the other two files from the `lorem folder` to `lorem-copy` folder in just one line using semicolon `;`.
+`cp at.txt at.txte lorem.txt /Users/cormacokeeffe/Documents/GitHub/lab-bash/lorem-copy`
 6. Show the `sed.txt` file content from the `lorem` folder.
 7. Show the `at.txt` file and `lorem.txt` file contents from `lorem` folder.
 8. Print the first 3 rows in `sed.txt` file from lorem-copy folder.
