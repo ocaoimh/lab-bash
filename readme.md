@@ -125,6 +125,24 @@ ls -d *lorem* | wc -l
 ## Bonus
 
 20. Store your `name` in a variable with `read` command.
-21. Print that variable.
-22. Create a new directory named with variable `name`.
-23. Remove that directory.
+```shell
+read Cormac
+```
+
+22. Print that variable.
+
+```shell
+echo Cormac
+```
+
+24. Create a new directory named with variable `name`.
+
+```shell
+mkdir Cormac
+```
+
+26. Remove that directory.
+
+```shell
+rmdir Cormac
+```
