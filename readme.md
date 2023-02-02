@@ -10,6 +10,8 @@ In this lab we are going to practice with [`bash`](<https://en.wikipedia.org/wik
 
 1. Fork the repo in your git hub account and then clone the folder "lab-bash" to your machine and navigate to it folder.
 
+`link can be found here: `
+
 2. Check the contents of the folder using the "ls" command
 
 ```shell
